@@ -1,23 +1,11 @@
 <script>
+    import '../global.css';
     import Heading from "./Heading.svelte";
 </script>
 
 <Heading />
 
-<h1>Hello World</h1>
+<h1>Welcome to my blog</h1>
 
-<p>Programmer</p>
-
-<style>
-    :global(body) {
-        background-color: #1a1b26;
-    }
-
-    :global(p) {
-        color: #73daca;
-    }
-
-    :global(h1) {
-        color: #c0caf5;
-    }
-</style>
+<a href="/about">About</a>
+<a href="/blog">Blog</a>
