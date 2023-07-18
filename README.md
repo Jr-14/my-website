@@ -39,6 +39,8 @@ npm run deploy
 
 Colour scheme uses Tokyo Night Colour Palette - [Tokyo Night VSCode Theme](https://github.com/enkia/tokyo-night-vscode-theme)
 
+But for the most minmal website, black and white will do.
+
 ## TODO List:
 
 - [x] Generate minimal website with an /about and /blog route.
