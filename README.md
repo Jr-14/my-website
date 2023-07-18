@@ -1,6 +1,8 @@
 # My Personal Website
 
-My personal website created using Svelte
+My personal website created using Svelte and Firebase. 
+
+Svelte is used to generate a static website and deployed using Firebase.
 
 ## Developing
 
@@ -25,6 +27,29 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
+## Deploying
+
+Firebase is used to deploy the app:
+
+```bash
+npm run deploy
+```
+
 ## Colour Scheme
 
 Colour scheme uses Tokyo Night Colour Palette - [Tokyo Night VSCode Theme](https://github.com/enkia/tokyo-night-vscode-theme)
+
+## TODO List:
+
+- [x] Generate minimal website with an /about and /blog route.
+- [x] Deploy with Firebase
+- [ ] Style landing page with a navigation bar
+- [ ] Style landing page to center content
+- [ ] Style about me page to center content
+- [ ] Add information about me in about me page
+- [ ] Determine blogging layout
+- [ ] Add blog entry about creating a firebase app blog with minimal content as PoC to show how easy it is to create and deploy your own website.
+- [ ] CI/CD?
+- [ ] Testing?
+- [ ] Dockerising?
+- [ ] others?
