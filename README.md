@@ -1,6 +1,6 @@
 # My Personal Website
 
-My personal website created using Svelte and Firebase. 
+My personal website created using Svelte and Firebase.
 
 Svelte is used to generate a static website and deployed using Firebase.
 
