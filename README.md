@@ -29,7 +29,13 @@ You can preview the production build with `npm run preview`.
 
 ## Deploying
 
-Firebase is used to deploy the app:
+Firebase is used to deploy the app. Ensure you are first logged in using:
+
+```bash
+firebase login
+```
+
+Then we can deploy using:
 
 ```bash
 npm run deploy
