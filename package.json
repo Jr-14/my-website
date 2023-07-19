@@ -11,7 +11,9 @@
 		"test": "vitest",
 		"lint": "prettier --plugin-search-dir . --check .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"deploy": "firebase deploy"
+		"deploy": "firebase deploy",
+		"deploy:local": "firebase emulators:start",
+		"login": "firebase login"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
