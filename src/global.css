@@ -14,21 +14,33 @@ h1 {
 
 h2 {
 	font-family: 'IBM Plex Sans';
-	font-size: 1.875em;
+	font-size: 1.9em;
 }
 
 p {
 	font-family: 'IBM Plex Sans';
-	font-size: 0.875em;
+	font-size: 1.25em;
+	line-height: 1.75em;
 }
 
 a {
 	font-family: 'IBM Plex Sans';
-	font-size: 0.875em;
+	font-size: 1em;
+	text-underline-offset: 0.25em;
+	text-underline-color: grey;
+	text-decoration: none;
+	border-bottom: 2px solid #d3d3d3;
+	color: currentColor;
+}
+
+a:hover {
+	color: black;
+	border-color: currentColor;
 }
 
 body {
 	min-height: 100vh;
 	max-width: 600px;
 	margin: auto;
+	text-rendering: optimizeLegibility;
 }
