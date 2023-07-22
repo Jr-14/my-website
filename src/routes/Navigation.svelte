@@ -26,7 +26,14 @@
 		font-size: 1em;
 	}
 
+	a {
+		font-family: 'IBM Plex Sans';
+		font-size: 1em;
+		text-underline-offset: 0.25em;
+	}
+
 	a:hover {
+		font-weight: bold;
 		color: black;
 	}
 </style>
