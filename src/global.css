@@ -9,16 +9,26 @@
 
 h1 {
 	font-family: 'IBM Plex Sans';
+	font-size: 2.5em;
 }
 
 h2 {
 	font-family: 'IBM Plex Sans';
+	font-size: 1.875em;
 }
 
 p {
 	font-family: 'IBM Plex Sans';
+	font-size: 0.875em;
 }
 
 a {
 	font-family: 'IBM Plex Sans';
+	font-size: 0.875em;
+}
+
+body {
+	min-height: 100vh;
+	max-width: 600px;
+	margin: auto;
 }

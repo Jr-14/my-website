@@ -51,10 +51,11 @@ But for the most minmal website, black and white will do.
 
 - [x] Generate minimal website with an /about and /blog route.
 - [x] Deploy with Firebase
-- [ ] Style landing page with a navigation bar
-- [ ] Style landing page to center content
-- [ ] Style about me page to center content
+- [x] Style landing page with a navigation bar
+- [x] Style landing page to center content
+- [x] Style about me page to center content
 - [ ] Add information about me in about me page
+- [ ] Add links for socials in home page
 - [ ] Determine blogging layout
 - [ ] Add blog entry about creating a firebase app blog with minimal content as PoC to show how easy it is to create and deploy your own website.
 - [ ] CI/CD?
