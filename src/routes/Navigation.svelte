@@ -23,7 +23,7 @@
 	.blog-route {
 		color: grey;
 		margin: 0 1.5em 0 0;
-		font-size: 1em;
+		font-size: 1.1rem;
 	}
 
 	a {

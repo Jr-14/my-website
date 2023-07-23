@@ -58,8 +58,8 @@ But for the most minmal website, black and white will do.
 - [x] Style about me page to center content
 - [x] Add information about me in about me page
 - [x] Add links for socials in home page
-- [ ] Determine blogging layout
-- [ ] Add blog entry about creating a firebase app blog with minimal content as PoC to show how easy it is to create and deploy your own website.
+- [x] Determine blogging layout
+- [x] Add blog entry about creating a firebase app blog with minimal content as PoC to show how easy it is to create and deploy your own website.
 - [ ] Responsive web design for mobile and desktop
 - [ ] Format social links to make it look nicer
 - [ ] Add favicon
