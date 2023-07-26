@@ -1,7 +1,13 @@
-<script>
-	import Analytics from '$lib/analytics.svelte';
-</script>
+<svelte:head>
+		<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-QLN2G2KSKM"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
 
-<Analytics />
+		gtag('config', 'G-QLN2G2KSKM');
+	</script>
+</svelte:head>
 
 <slot></slot>
