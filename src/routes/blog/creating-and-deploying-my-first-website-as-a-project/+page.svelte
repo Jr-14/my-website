@@ -57,12 +57,21 @@
 	</ul>
 	<p>
 		And that’s it! It seems like a lot, but this is much more palatable. I stuck with a programming
+<<<<<<< HEAD
 		language I am familiar with as this reduces the complexity. However, I can’t give any reasoning
 		as to why I have chosen Svelte, SvelteKit, and Firebase. I have minimal to no experience with
 		these, and I had to research my options, just pick one, and stick with it! I could have also
 		chosen React + NextJS, and Netlify. But the most important thing for me to do was stick with it,
 		so that I can learn as much as I can from these frameworks and make a better informed decision
 		in the future.
+=======
+		language I am familiar with as this reduces the complexity.
+		However, I can’t give any reasoning as to why I have chosen Svelte, SvelteKit, and Firebase. I
+		have minimal to no experience with these, and I had to research my options, just pick one, and
+		stick with it! I could have also chosen React + NextJS, and Netlify. But the most important
+		thing for me to do was stick with it, so that I can learn as much as I can from these frameworks
+		and make a better informed decision in the future.
+>>>>>>> main
 	</p>
 	<p>
 		I wanted to take a pragmatic approach and “Done is better than perfect” enables me to celebrate
