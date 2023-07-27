@@ -9,20 +9,20 @@
 }
 
 h1 {
-	font-size: 2.5rem;
+	font-size: 1.8rem;
 }
 
 h2 {
-	font-size: 1.9rem;
+	font-size: 1.4;
 }
 
 p {
-	font-size: 1.25rem;
-	line-height: 1.75em;
+	font-size: 1rem;
+	line-height: 1.5rem;
 }
 
 a {
-	font-size: 1.25rem;
+	font-size: 1rem;
 	text-underline-offset: 0.25rem;
 	text-underline-color: grey;
 	text-decoration: none;
@@ -36,21 +36,23 @@ a:hover {
 }
 
 li {
-	font-size: 1.25rem;
-	margin: 1rem;
+	font-size: 1rem;
+	margin: 0.75rem;
 }
 
 img {
-	max-width: 800px;
+	max-width: 100%;
 }
 
 q {
-	font-size: 1.25rem;
+	font-size: 1rem;
 }
 
 body {
 	min-height: 100vh;
-	max-width: 800px;
+	padding-left: 25px;
+	padding-right: 25px;
+	max-width: 640px;
 	margin: auto;
 	text-rendering: optimizeLegibility;
 	font-family: 'IBM Plex Sans', sans-serif;
