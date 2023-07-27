@@ -33,7 +33,7 @@
 	}
 
 	.fa {
-		font-size: 3em;
-		padding: 1em 1em 1em 1em;
+		font-size: 2.5rem;
+		padding: 50px 50px 50px 50px;
 	}
 </style>
