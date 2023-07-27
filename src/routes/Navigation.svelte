@@ -15,6 +15,7 @@
 
 <style>
 	.nav-bar {
+		padding-top: 20px;
 		display: flex;
 		flex-direction: row;
 		justify-content: flex-start;
