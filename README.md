@@ -64,7 +64,7 @@ But for the most minmal website, black and white will do.
 - [ ] Format social links to make it look nicer
 - [x] Add favicon
 - ~~[ ] Add firebase analytics to view traffic~~ Deciding not to add analytics
-- [ ] Add projects path
+- [x] Add projects path
 - [ ] Add Game of Life project
 - [ ] Add visual sorter project
 - [ ] Blog the game of life project
