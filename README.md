@@ -62,8 +62,13 @@ But for the most minmal website, black and white will do.
 - [x] Add blog entry about creating a firebase app blog with minimal content as PoC to show how easy it is to create and deploy your own website.
 - [x] Responsive web design for mobile and desktop
 - [ ] Format social links to make it look nicer
-- [ ] Add favicon
-- [ ] Add firebase analytics to view traffic
+- [x] Add favicon
+- ~~[ ] Add firebase analytics to view traffic~~ Deciding not to add analytics
+- [ ] Add projects path
+- [ ] Add Game of Life project
+- [ ] Add visual sorter project
+- [ ] Blog the game of life project
+- [ ] Blog the visual sorter project
 - [ ] CI/CD?
 - [ ] Testing?
 - [ ] Dockerising?
