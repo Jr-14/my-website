@@ -3,6 +3,10 @@
 	import Navigation from '../Navigation.svelte';
 </script>
 
+<svelte:head>
+	<title>Projects</title>
+</svelte:head>
+
 <Navigation />
 
 <h1>Projects</h1>

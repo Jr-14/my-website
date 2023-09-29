@@ -5,6 +5,10 @@
 	import Socials from './Socials.svelte';
 </script>
 
+<svelte:head>
+	<title>John Requizo</title>
+</svelte:head>
+
 <Navigation />
 
 <Heading />

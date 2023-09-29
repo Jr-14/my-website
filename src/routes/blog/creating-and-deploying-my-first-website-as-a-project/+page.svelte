@@ -6,6 +6,10 @@
 	import FirstDepolyImage from '../../../lib/images/first-deploy.png';
 </script>
 
+<svelte:head>
+	<title>My first website</title>
+</svelte:head>
+
 <Navigation />
 
 <article>
@@ -219,5 +223,4 @@ $ tree -I 'build|node_modules'
 	<br />
 	<br />
 	<br />
-	>>>>>>> main
 </article>
