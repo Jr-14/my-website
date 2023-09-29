@@ -2,7 +2,7 @@
 	import '../global.css';
 </script>
 
-<nav class="nav-bar">
+<nav class="nav-bar dark">
 	<a class="blog-route" href="/">Home</a>
 	<a class="blog-route" href="/about">About</a>
 	<a class="blog-route" href="/blog">Blog</a>
@@ -32,5 +32,15 @@
 	a:hover {
 		font-weight: bold;
 		color: black;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		a {
+			color: #fbf1c7;
+		}
+
+		a:hover {
+			background-color: #fbf1c7;
+		}
 	}
 </style>
