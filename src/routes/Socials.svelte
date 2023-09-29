@@ -4,12 +4,12 @@
 
 <div class="socials">
 	<div class="socials-github">
-		<a target="_blank" href="https://github.com/Jr-14">
+		<a href="https://github.com/Jr-14">
 			<i class="fa fa-github" />
 		</a>
 	</div>
 	<div class="socials-linkedin">
-		<a target="_blank" href="https://www.linkedin.com/in/john-emerson-requizo/">
+		<a href="https://www.linkedin.com/in/john-emerson-requizo/">
 			<i class="fa fa-linkedin" />
 		</a>
 	</div>
