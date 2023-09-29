@@ -1,7 +1,7 @@
 <script>
 	import '../global.css';
 	import Heading from './Heading.svelte';
-	import Navigation from './Navigation.svelte';
+	import Navigation from '../components/Navigation.svelte';
 	import Socials from './Socials.svelte';
 </script>
 

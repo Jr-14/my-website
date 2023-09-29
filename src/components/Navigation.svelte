@@ -2,11 +2,6 @@
 	import '../global.css';
 </script>
 
-<!-- <nav>
-	<a href="/about">About</a>
-	<a href="/blog">Blog</a>
-</nav> -->
-
 <nav class="nav-bar">
 	<a class="blog-route" href="/">Home</a>
 	<a class="blog-route" href="/about">About</a>

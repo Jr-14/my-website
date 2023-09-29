@@ -1,6 +1,6 @@
 <script>
 	import '../../../global.css';
-	import Navigation from '../../Navigation.svelte';
+	import Navigation from '../../../components/Navigation.svelte';
 	import CreateSvelteAppImage from '../../../lib/images/create-svelte-project.png';
 	import FirstRenderImage from '../../../lib/images/first-render.png';
 	import FirstDepolyImage from '../../../lib/images/first-deploy.png';

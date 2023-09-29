@@ -1,6 +1,6 @@
 <script>
 	import '../../global.css';
-	import Navigation from '../Navigation.svelte';
+	import Navigation from '../../components/Navigation.svelte';
 </script>
 
 <svelte:head>
